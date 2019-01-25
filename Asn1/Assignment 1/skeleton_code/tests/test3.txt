@@ -1,0 +1,2 @@
+sort < ./tests/Tyrion/2.txt > ./tests/result.txt
+exit

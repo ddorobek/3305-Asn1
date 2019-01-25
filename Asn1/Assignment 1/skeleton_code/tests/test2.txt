@@ -1,0 +1,2 @@
+cat ./tests/Tyrion/1.txt | sort > ./tests/result.txt
+exit
